@@ -12,5 +12,5 @@
     owl:equivalentClass <http://iflastandards.info/ns/lrm/lrmoo/F31_Performance> ;
     rdfs:seeAlso <https://cidoc-crm.org/extensions/lrmoo/1.1.1/F31_Performance> .
 
-: subtitleLanguage a rdf:Property ;
+:subtitleLanguage a rdf:Property ;
     :domainIncludes :PerformingArtsEvent .
