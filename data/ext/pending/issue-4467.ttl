@@ -22,6 +22,7 @@
     :rangeIncludes :Event ;
     :inverseOf :workPerformed .
 
+:workPerformed :inverseOf :performedIn .
 :duration :domainIncludes :PerformanceWork .
 :subtitleLanguage :domainIncludes :PerformanceWork .
 :trailer :domainIncludes :PerformanceWork .
